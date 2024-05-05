@@ -1,5 +1,5 @@
 # SolidPrinciple
-## Problem Statemebt
+## Problem Statement
 Improve the following codes to implement SOLID principles in OOP.
 
 
